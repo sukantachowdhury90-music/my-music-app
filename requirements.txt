@@ -1,2 +1,4 @@
 streamlit
-basic-pitch
+basic-pitch==0.3.0
+tensorflow==2.11.0
+protobuf==3.19.6
