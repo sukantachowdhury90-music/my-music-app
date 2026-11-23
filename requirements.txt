@@ -1,0 +1,2 @@
+streamlit
+basic-pitch
